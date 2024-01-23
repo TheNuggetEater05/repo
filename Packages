@@ -1,1 +1,14 @@
-
+Package: com.jaydenn.textchangertutorial
+Name: Jaydenn's Test Tweak
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Just a placeholder!
+Maintainer: Jaydenn
+Author: Jaydenn
+Section: Tweak
+Depends: 
+Filename: debs/com.jaydenn.textchangertutorial_iphoneos-arm64.deb
+Size: 1814
+MD5sum: 67fdb45a99a1499d25e007a969c0c647
+SHA1: d89ce48d79a27354657e12760257c350f0d739ae
+SHA256: 27652a86d2d0d08f5c14dea84b780124ef7b80bad36be276b3c7cdf511b8e4a4
