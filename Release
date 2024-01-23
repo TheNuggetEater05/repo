@@ -1,0 +1,8 @@
+Origin: Jaydenn's Repo
+Label: Jaydenn's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: I'm learning to make iOS tweaks!
